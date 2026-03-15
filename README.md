@@ -36,3 +36,6 @@ Power BI – Data visualization and dashboard creation
 Data Analysis – Sales and customer behavior insights
 
 This dashboard helps businesses monitor sales performance, identify profitable products, and make data-driven decisions to improve store revenue and customer engagement.
+## 📷 Dashboard Snapshot
+
+[Good_Store_Dashboard](https://github.com/student-skumari/Good_Store_Dashboard/commit/fe28265e9baf6190cc2888d933b2b028c57a0b6e)
